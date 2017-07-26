@@ -1,0 +1,27 @@
+﻿  Źródło.cpp
+c:\users\drath\documents\visual studio 2017\projects\memformatting\memformatting\źródło.cpp(25): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: zobacz deklarację „strcat”
+c:\users\drath\documents\visual studio 2017\projects\memformatting\memformatting\źródło.cpp(26): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: zobacz deklarację „strcat”
+c:\users\drath\documents\visual studio 2017\projects\memformatting\memformatting\źródło.cpp(28): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: zobacz deklarację „strcat”
+c:\users\drath\documents\visual studio 2017\projects\memformatting\memformatting\źródło.cpp(29): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: zobacz deklarację „strcat”
+c:\users\drath\documents\visual studio 2017\projects\memformatting\memformatting\źródło.cpp(32): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: zobacz deklarację „strcat”
+c:\users\drath\documents\visual studio 2017\projects\memformatting\memformatting\źródło.cpp(33): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: zobacz deklarację „strcat”
+c:\users\drath\documents\visual studio 2017\projects\memformatting\memformatting\źródło.cpp(34): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: zobacz deklarację „strcat”
+c:\users\drath\documents\visual studio 2017\projects\memformatting\memformatting\źródło.cpp(37): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: zobacz deklarację „strtok”
+c:\users\drath\documents\visual studio 2017\projects\memformatting\memformatting\źródło.cpp(38): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: zobacz deklarację „strtok”
+c:\users\drath\documents\visual studio 2017\projects\memformatting\memformatting\źródło.cpp(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: zobacz deklarację „strcpy”
+c:\users\drath\documents\visual studio 2017\projects\memformatting\memformatting\źródło.cpp(46): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: zobacz deklarację „strcat”
+  LINK : nie znaleziono elementu C:\Users\Drath\Documents\Visual Studio 2017\Projects\memformatting\Debug\memformatting.dll ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
+     Trwa tworzenie biblioteki C:\Users\Drath\Documents\Visual Studio 2017\Projects\memformatting\Debug\memformatting.lib i obiektu C:\Users\Drath\Documents\Visual Studio 2017\Projects\memformatting\Debug\memformatting.exp
+  memformatting.vcxproj -> C:\Users\Drath\Documents\Visual Studio 2017\Projects\memformatting\Debug\memformatting.dll
+  memformatting.vcxproj -> C:\Users\Drath\Documents\Visual Studio 2017\Projects\memformatting\Debug\memformatting.pdb (Partial PDB)
